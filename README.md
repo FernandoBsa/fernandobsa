@@ -2,7 +2,7 @@
 ##  Hi there! and Welcome to my GitHub Profile! 🤓💻
 
 <div>
-    <h1>I'm a developer in C# .Net | HTML| CSS | SQL SERVER.</h1>
+    <h1>I'm a developer in C# .Net | HTML | CSS | SQL SERVER.</h1>
         <div>
             <p>
                 - 🎮 My hobby: I like to Play all kind of games!
