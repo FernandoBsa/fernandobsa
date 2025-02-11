@@ -1,6 +1,6 @@
 Hi there! Welcome to my GitHub Profile! 🤓💻
 <div> 
-    <h1>I'm a Full Stack Developer with expertise in .NET | C# | Angular | SQL Server | Docker | Azure.</h1> 
+    <h1>I'm a developer in .NET | C# | Angular | JAVA | Spring Boot | Azure DevOps | SQL Server | PostgreeSQL.</h1>
         <div> 
             <p> - 🎮 My hobby: I love playing all kinds of games! </p> 
             <p> - 🧠 Currently working with **.NET Core**, **Angular**, and **Azure** to build scalable and efficient solutions. </p> 
