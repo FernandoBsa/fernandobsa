@@ -1,9 +1,9 @@
 Hi there! Welcome to my GitHub Profile! 🤓💻
 <div> 
-    <h1>I'm a developer in .NET | C# | Angular | JAVA | Spring Boot | Azure DevOps | SQL Server | PostgreeSQL.</h1>
+    <h1>I'm a developer in .NET | C# | Angular | Azure DevOps | SQL Server | PostgreeSQL.</h1>
         <div> 
             <p> - 🎮 My hobby: I love playing all kinds of games! </p> 
-            <p> - 🧠 Currently working with **.NET Core**, **Angular**, and **Azure** to build scalable and efficient solutions. </p> 
+            <p> - 🧠 Currently working with .NET Core, Angular, and Azure to build scalable and efficient solutions. </p> 
             <p> - 🔭 Looking for opportunities to grow professionally and contribute to innovative projects! </p> 
             <p> - 📫 How to reach me 👇🏻 </p> 
         </div> 
